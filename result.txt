@@ -1,0 +1,3 @@
+14/14 [==============================] - 1s 90ms/step - loss: 0.3282 - accuracy: 0.8964
+test loss, test acc: [0.3281589150428772, 0.8963938355445862]
+2024-11-22 01:43:49.380831: W tensorflow/python/util/util.cc:348] Sets are not currently considered sequences, but this may change in the future, so consider avoiding using them.
